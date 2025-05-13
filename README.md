@@ -43,7 +43,9 @@
 ### 📊 GitHub Stats
 
  
-
+<p align="center">
+  <img src="https://ghchart.rshah.org/00ff00/dinusanka" alt="Green GitHub chart" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dinusanka&show_icons=true&theme=gruvbox_light&hide_title=true" alt="GitHub Stats" />
