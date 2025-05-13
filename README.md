@@ -44,17 +44,11 @@
 
  
 <p align="center">
-  <img src="https://ghchart.rshah.org/00ff00/dinusanka" alt="Green GitHub chart" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/green/dinusanka">
+    <img src="https://ghchart.rshah.org/green/dinusanka" alt="GitHub Contributions Graph" />
+  </picture>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinusanka&show_icons=true&theme=gruvbox_light&hide_title=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinusanka&theme=green-nur" alt="GitHub Streak" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dinusanka&theme=github" alt="GitHub Activity Graph" />
 </p>
