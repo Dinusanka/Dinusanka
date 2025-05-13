@@ -12,7 +12,7 @@
 - 💻 I love building **Fullstack Web and Mobile Apps**  
 - 💬 Ask me about **React, Node.js, Kotlin, Java, and Tailwind CSS**  
 - 📫 Reach me at: **dinuska.g@gmail.com**  
-- 🌐 Visit my [Portfolio](#) (optional: add if available)
+
 
 ---
 
@@ -41,15 +41,12 @@
 ---
 
 ### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dinusanka&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinusanka&show_icons=true&theme=radical" alt="Dinusanka GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinusanka&theme=radical" alt="Dinusanka GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinusanka&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinusanka&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
