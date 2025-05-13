@@ -44,10 +44,8 @@
 
  
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/green/dinusanka">
-    <img src="https://ghchart.rshah.org/green/dinusanka" alt="GitHub Contributions Graph" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=dinusanka&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinusanka&layout=compact&theme=radical" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dinusanka&theme=github" alt="GitHub Activity Graph" />
