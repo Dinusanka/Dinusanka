@@ -42,6 +42,12 @@
 
 ### 📊 GitHub Stats
 
+ 
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinusanka&show_icons=true&theme=dark&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinusanka&layout=compact&theme=dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=dinusanka&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dinusanka&show_icons=true&theme=gruvbox_light&hide_title=true" alt="GitHub Stats" />
