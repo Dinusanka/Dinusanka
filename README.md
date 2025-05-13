@@ -44,13 +44,20 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinusanka&theme=highcontrast" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dinusanka&show_icons=true&theme=gruvbox_light&hide_title=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dinusanka&theme=github-compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinusanka&theme=green-nur" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dinusanka&theme=github" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinusanka&layout=compact&theme=gruvbox_light" alt="Top Languages" />
+</p>
 
 ---
 
