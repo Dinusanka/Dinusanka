@@ -41,10 +41,16 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
 
-  <img src="https://raw.githubusercontent.com/dinusanka/dinusanka/main/github-metrics.svg" alt="Metrics" />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinusanka&theme=highcontrast" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dinusanka&theme=github-compact" />
+</p>
+
 
 ---
 
