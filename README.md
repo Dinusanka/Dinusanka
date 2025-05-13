@@ -42,11 +42,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinusanka&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinusanka&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/dinusanka/dinusanka/main/github-metrics.svg" alt="Metrics" />
 </p>
 
 ---
